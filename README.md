@@ -1,7 +1,11 @@
 # Coding Problems
 
 ### Topics
++ [Array](#array)
 + [Recursion](#recursion)
+
+## Array
++ [String compression](#)
 
 ## Recursion
 + [Binary Search on a sorted array](#)
